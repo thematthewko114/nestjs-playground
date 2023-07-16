@@ -1,0 +1,1 @@
+{"version":3,"file":"mongodb.providers.js","sourceRoot":"","sources":["../../../src/providers/database/mongodb.providers.ts"],"names":[],"mappings":";;;AAAA,qCAAqC;AACrC,OAAO,CAAC,QAAQ,CAAC,CAAC,MAAM,EAAE,CAAA;AAEb,QAAA,iBAAiB,GAAG;IAC/B;QACE,OAAO,EAAE,qBAAqB;QAC9B,UAAU,EAAE,GAA6B,EAAE,CACzC,QAAQ,CAAC,OAAO,CAAC,OAAO,CAAC,GAAG,CAAC,yBAAyB,CAAC;KAC1D;CACF,CAAC"}

@@ -1,5 +1,5 @@
 import { Injectable } from '@nestjs/common';
-import { TestResponse } from '../models';
+import { TestResponse } from '../models/coin-ranking';
 
 @Injectable()
 export class AppService {
