@@ -14,7 +14,6 @@ const coin_ranking_1 = require("../../controllers/coin-ranking");
 const coin_ranking_2 = require("../../services/coin-ranking");
 const users_1 = require("../users");
 require('dotenv').config();
-const mongodbUri = process.env.MONGODB_CONNECTION_STRING;
 let AppModule = exports.AppModule = class AppModule {
 };
 exports.AppModule = AppModule = __decorate([
