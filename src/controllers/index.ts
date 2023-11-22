@@ -1,6 +1,6 @@
 import { Controller, Get } from '@nestjs/common';
 import { AppService } from '../services';
-import { TestResponse } from '../models/coin-ranking';
+import { TestResponse } from '../models';
 
 @Controller()
 export class AppController {

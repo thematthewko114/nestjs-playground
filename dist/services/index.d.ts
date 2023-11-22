@@ -1,4 +1,4 @@
-import { TestResponse } from '../models/coin-ranking';
+import { TestResponse } from '../models';
 export declare class AppService {
     getHello(): TestResponse;
 }
